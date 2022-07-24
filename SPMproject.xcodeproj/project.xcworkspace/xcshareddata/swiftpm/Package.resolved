@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "nvactivityindicatorview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ninjaprox/NVActivityIndicatorView.git",
+      "state" : {
+        "revision" : "bcb52371f2259254bac6690f92bb474a61768c47",
+        "version" : "5.1.1"
+      }
+    },
+    {
+      "identity" : "rambahamba",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/obozhdi/rambahamba.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "5d2830452587f96bb97d7b49008dcc13783fbaeb"
+      }
+    }
+  ],
+  "version" : 2
+}
