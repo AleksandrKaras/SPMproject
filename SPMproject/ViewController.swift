@@ -17,6 +17,8 @@ class ViewController: UIViewController {
         padding: nil
     )
     
+    let label = UILabel()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .systemPink
